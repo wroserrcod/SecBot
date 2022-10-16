@@ -1,0 +1,2 @@
+# SecBot
+Discord güvenlik botu
